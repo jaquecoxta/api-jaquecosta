@@ -2,7 +2,7 @@
 
 Projeto final do Bootcamp Santander Backend Java pela DIGITAL INNOVATION ONE 
 
-## Principais Tecnologias
+## Informações
  -  Modificações feitas no README e no código fonte para o projeto final do Bootcamp Santander pela DIO. 
 
 
